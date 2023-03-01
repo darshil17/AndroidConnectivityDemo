@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ORMConnectivity</string>
+    <string name="btn_ins">Insert</string>
+    <string name="btn_upd">Update</string>
+    <string name="btn_del">Delete</string>
+    <string name="btn_show">Show</string>
+    <string name="etxt_id">Id</string>
+    <string name="etxt_nm">Name</string>
+</resources>
